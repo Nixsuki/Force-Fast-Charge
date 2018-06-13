@@ -1,24 +1,20 @@
 # Force Fast Charge
 
-# === Introduction ===
+# Description
 
   This module enables Force Fast Charging Technology for various supported Android devices and custom kernels systemlessly.
 
-# === Versions ===
+# Changelog
 
   Initial Release - v1.0
 
-# === Test ===
+# Requirements
 
-  Device:         - Xiaomi Redmi Note 4x (Nougat/Oreo)
-                  - Works in various devices with fast charging support
+  Android device supports both stock and custom kernels fast charging technology.
 
-# === Reference Mod Path ===
+# Features
 
-  Root/sys/kernel/fast_charge/force_fast_charge
+  1. Enables fast charging path thru (Root/sys/kernel/fast_charge/force_fast_charge)
+  2. Quick and fast no need for cmd ternminals or kernel managers.
+  3. Install and good to go.
   
-# === Special Thanks ===
-  - <a href="https://github.com/topjohnwu">topjohnwu</a>
-  - <a href="https://forums.androidcentral.com/optimus-v-rooting-roms-hacks/200660-kernel-mod-enable-usb-fast-charging-now-jawz101-kernel.html">anon(235100)</a>
-  
-# === All Rights Reserved 2018. ===
