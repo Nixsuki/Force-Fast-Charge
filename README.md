@@ -1,9 +1,24 @@
-# Magisk Module Template
+# Force Fast Charge
 
-This `README.md` will be shown in Magisk Manager. Place any information / changelog / notes you like.
+# === Introduction ===
 
-**Please update `README.md` if you want to submit your module to the online repo!**
+  This module enables Force Fast Charging Technology for various supported Android devices and custom kernels systemlessly.
 
-Github has its own online markdown editor with a preview feature, you can use it to update your `README.md`! If you need more advanced syntax, check the [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+# === Versions ===
 
-For more information about modules and repos, please check the [official documentations](https://github.com/topjohnwu/Magisk/blob/master/docs/modules.md)
+  Initial Release - v1.0
+
+# === Test ===
+
+  Device:         - Xiaomi Redmi Note 4x (Nougat/Oreo)
+                  - Works in various devices with fast charging support
+
+# === Reference Mod Path ===
+
+  Root/sys/kernel/fast_charge/force_fast_charge
+  
+# === Special Thanks ===
+  - <a href="https://github.com/topjohnwu">topjohnwu</a>
+  - <a href="https://forums.androidcentral.com/optimus-v-rooting-roms-hacks/200660-kernel-mod-enable-usb-fast-charging-now-jawz101-kernel.html">anon(235100)</a>
+  
+# === All Rights Reserved 2018. ===
